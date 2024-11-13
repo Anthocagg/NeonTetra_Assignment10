@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeonTetra_Assignment10", "PythonApplication10\NeonTetra_Assignment10.pyproj", "{62B19943-585B-43CB-B521-60766390C71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B19943-585B-43CB-B521-60766390C71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B19943-585B-43CB-B521-60766390C71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043AD896-8AD0-4264-B708-80110B7CC781}
+	EndGlobalSection
+EndGlobal
